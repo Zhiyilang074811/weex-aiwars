@@ -15,21 +15,13 @@ AI-powered autonomous trading agent for the WEEX exchange with x402 micropayment
 - WEEX API Integration
 - x402 Payments
 
-## Getting Started
-\\\ash
-npm install
-npm run dev
-npm run build
-\\\
-
 ## Demo
-[Live Demo](https://zhiyilang074811.github.io/weex-aiwars/)
-[GitHub Repo](https://github.com/Zhiyilang074811/weex-aiwars)
+- [Live Demo](https://zhiyilang074811.github.io/weex-aiwars/)
+- [GitHub Repo](https://github.com/Zhiyilang074811/weex-aiwars)
 
 ## Hackathon
 - **Competition**: [WEEX AI Wars II](https://dorahacks.io/hackathon/weex-ai-wars2)
-- **Deadline**: 2026-10-12
-- **Prize Pool**: ,000+
+- **Prize Pool**: ,000 USDT
 
 ## License
 MIT
